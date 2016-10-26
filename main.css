@@ -1,0 +1,36 @@
+.greyhoundMasthead { 
+	background-image: url(images/bea_couch.jpg); 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding: 5em 8em;
+	margin: 0 auto;
+	background-repeat: no-repeat;
+	color: #F0F0F0;
+	height: 43em;
+	position: relative;
+}
+.acpaHeader{
+	color: #974326;
+}
+.mottoHolder{
+	position: absolute;
+	bottom: 10px;
+}
+.motto {
+	color: #402D18;
+	font-size: 1.5em;
+}
+
+h1 {
+	font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+	font-size: 50px;
+	line-height: 65px;
+}
+
+p {
+	font-family: 'Vollkorn', Georgia, Times, serif;
+	font-size: 16px;
+	line-height: 25px;
+}
